@@ -1,6 +1,6 @@
 # Análise de Tarefas – Cenário 1
 
-## 0. Gerir a toma de medicação
+##Gerir a toma de medicação
 
 ### 1. Receber notificação
 1.1 O utilizador recebe alerta no telemóvel  
