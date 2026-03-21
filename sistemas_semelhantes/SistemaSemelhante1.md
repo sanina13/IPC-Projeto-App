@@ -5,7 +5,7 @@
 - A escolha desta aplicação também se deve ao facto de ser utilizada no dia-a-dia,o que permite uma análise mais prática e fundamentada da sua usabilidade.
 - Tem uma interface clara e simples, importante em tudo oque é ligado a saúde
 
-## A minha análise:
+## A minha análise
 ### Descrição da aplicação:
 A app Medisafe é focada na gestão da toma de medicamentos, uma app bastante intuitiva e simples de usar, com cores tais como azul e o branco que são 
 cores ligadas a área da saúde, premitindo além da gestão de medicação, acompanhamento e monotoria da saúde, gerir consultas, tem um diário também para
