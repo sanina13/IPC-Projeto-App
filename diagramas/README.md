@@ -1,1 +1,1 @@
-
+![Fluxograma](easymedFluxoGrama.drawio.png)
