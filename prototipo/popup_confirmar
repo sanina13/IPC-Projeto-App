@@ -1,0 +1,9 @@
+# Ecrã – Confirmação de Ação
+
+Descrição:
+Popup apresentado ao utilizador antes de confirmar a toma da medicação.
+
+Funcionalidade:
+Permite confirmar ou cancelar a ação, evitando erros.
+
+Este mecanismo aumenta a segurança e a confiança na utilização da aplicação.
