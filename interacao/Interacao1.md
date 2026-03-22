@@ -1,6 +1,6 @@
 # Estilo e Dispositivos de Interação
 
-## 📱 Dispositivo de Interação
+## Dispositivo de Interação
 
 A aplicação EasyMed foi pensada para ser utilizada em dispositivos móveis, nomeadamente smartphones. Estes dispositivos permitem ao utilizador ter acesso constante à aplicação, sendo importante para a gestão de medicação,
 que requer acompanhamento frequente.
@@ -10,7 +10,7 @@ para evitar doses duplicadas.
 
 ---
 
-## 🎮 Estilo de Interação
+## Estilo de Interação
 
 O principal estilo de interação utilizado na aplicação é baseado em toque, através do ecrã tátil do dispositivo.
 
@@ -21,7 +21,7 @@ O utilizador interage com a aplicação através de ações simples como:
 
 ---
 
-## 🧠 Justificação
+## Justificação
 
 A escolha do estilo de interação por toque deve-se à sua simplicidade e facilidade de utilização, sendo especialmente adequada para utilizadores com menor experiência tecnológica, como idosos.
 
