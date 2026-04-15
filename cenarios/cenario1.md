@@ -1,6 +1,6 @@
 # Cenário de Utilização – Gestão da Medicação Diária
 
-## 👤 Utilizador
+## Utilizador
 João Silva, 68 anos, reformado, com hipertensão e diabetes.
 
 ## Contexto
