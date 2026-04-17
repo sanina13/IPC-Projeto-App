@@ -1,28 +1,36 @@
-# Cenário de Utilização – Gestão da Medicação em Rotina Ocupada
+# Cenário de Utilização – Adicionar Nova Medicação após Consulta Médica
 
 ## 👤 Utilizador
-Maria Fernandes, 45 anos, professora, com problemas de tiroide e enxaquecas.  
+Maria Fernandes, 45 anos, professora, com problemas de tiroide e enxaquecas.
 
 ---
 
 ## Contexto
-Maria encontra-se no trabalho durante um dia atarefado, com aulas consecutivas e pouco tempo entre tarefas. Devido à sua rotina exigente, por vezes esquece-se de tomar a medicação ou adia a toma, o que pode afetar o seu bem-estar ao longo do dia.  
+Maria acabou de sair de uma consulta com a sua médica de família, que lhe prescreveu um novo medicamento — **Gabapentina 300mg** — para ajudar a controlar a frequência das enxaquecas. A toma deve ser feita diariamente às 16:30. Como já utiliza a aplicação EasyMed para gerir a restante medicação, quer registar de imediato este novo medicamento para não correr o risco de se esquecer nos próximos dias.
 
 ---
 
 ## Objetivo
-Garantir que toma a medicação no horário correto, mesmo durante dias ocupados.  
+Adicionar rapidamente um novo medicamento à aplicação, definindo a dosagem, o horário e a frequência da toma, de modo a que passe a receber notificações automáticas no horário correto.
 
 ---
 
 ## Cenário
-Maria recebe uma notificação discreta no seu telemóvel a indicar que está na hora de tomar a medicação. Entre aulas, consulta rapidamente a aplicação EasyMed, onde consegue ver de forma clara qual o medicamento que deve tomar naquele momento.  
+Ainda no parque de estacionamento da clínica, Maria abre a aplicação EasyMed no seu telemóvel. No ecrã inicial (**"Hoje, 18 Mar"**), consulta a lista de medicação do dia, onde já constam o Paracetamol 500mg (8:00) e o Ibuprofeno (13:00).
 
-Após tomar a medicação, Maria regista a toma na aplicação com um simples toque. A app guarda automaticamente essa informação, permitindo-lhe acompanhar o histórico e manter o controlo da sua rotina de saúde.  
+Para adicionar o novo medicamento prescrito, toca no botão **"+ Adicionar"**, localizado por baixo da lista de medicação. A aplicação apresenta então o ecrã **"Adicionar medicação"**, com um formulário simples e direto.
 
-Além disso, em caso de sintomas como dores de cabeça, Maria pode rapidamente registar essa informação na aplicação para futura análise.  
+Maria preenche os campos sequencialmente:
+- **Nome do medicamento:** Gabapentina  
+- **Dosagem:** 300mg  
+- **Hora:** 16:30  
+- **Frequência:** seleciona a opção **"Diário"** a partir do menu suspenso (que permite também escolher "Semanal" ou "Personalizado").
+
+Depois de rever a informação introduzida, toca em **"Guardar"**. A aplicação confirma que o medicamento foi adicionado com sucesso e regressa ao ecrã inicial, onde a Gabapentina passa a aparecer na lista do dia, juntamente com os restantes medicamentos.
+
+A partir desse momento, Maria passará a receber uma notificação automática diariamente às 16:30 a lembrá-la da toma.
 
 ---
 
 ## Resultado Esperado
-Maria consegue gerir a sua medicação de forma prática, mesmo com uma rotina exigente, evitando esquecimentos e garantindo maior controlo sobre a sua saúde. A utilização da aplicação contribui para a sua tranquilidade e para a melhoria da sua qualidade de vida.
+Maria consegue registar o novo medicamento de forma rápida e intuitiva, logo após a consulta, sem depender da memória ou de apontamentos em papel. A aplicação garante que a nova medicação passa a integrar a sua rotina diária de tomas, com notificações automáticas que reduzem o risco de esquecimento. Esta funcionalidade contribui para uma maior autonomia na gestão da sua saúde e para uma adesão mais consistente ao tratamento prescrito.

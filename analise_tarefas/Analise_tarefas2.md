@@ -1,50 +1,52 @@
-# Análise de Tarefas – Cenário 2  
-## Gerir a toma de medicação em rotina ocupada
+# Análise de Tarefas – Cenário 2
+## Adicionar nova medicação após consulta médica
 
 ---
 
-### 1. Receber notificação
-1.1 O utilizador recebe alerta no telemóvel  
-1.2 O utilizador visualiza a notificação de forma rápida  
-1.3 O utilizador identifica que é hora de tomar a medicação  
+### 1. Receber prescrição médica
+1.1 O utilizador sai da consulta com nova medicação prescrita
+1.2 O utilizador identifica o nome, dosagem e horário do novo medicamento
+1.3 O utilizador decide registar de imediato a nova medicação
 
 ---
 
 ### 2. Aceder à aplicação
-2.1 O utilizador desbloqueia o telemóvel  
-2.2 O utilizador abre a aplicação EasyMed  
-2.3 O utilizador acede ao ecrã principal  
+2.1 O utilizador desbloqueia o telemóvel
+2.2 O utilizador abre a aplicação EasyMed
+2.3 O utilizador acede ao ecrã principal (Dashboard)
 
 ---
 
-### 3. Consultar medicação
-3.1 Visualizar o medicamento a tomar  
-3.2 Verificar o horário da toma  
-3.3 Confirmar instruções (se necessário)  
+### 3. Iniciar processo de adição
+3.1 Visualizar a lista de medicação atual
+3.2 Localizar o botão "+ Adicionar"
+3.3 Tocar no botão para abrir o ecrã "Adicionar medicação"
 
 ---
 
-### 4. Tomar medicação
-4.1 O utilizador toma o medicamento no momento disponível  
-4.2 O utilizador garante que segue a indicação correta  
+### 4. Preencher dados do medicamento
+4.1 Inserir o nome do medicamento (ex: Gabapentina)
+4.2 Inserir a dosagem (ex: 300mg)
+4.3 Definir a hora da toma (ex: 16:30)
+4.4 Selecionar a frequência no menu suspenso (Diário / Semanal / Personalizado)
 
 ---
 
-### 5. Registar toma
-5.1 Selecionar opção de confirmação na aplicação  
-5.2 Registar como “tomado”  
-5.3 Atualizar automaticamente o estado da medicação  
+### 5. Guardar medicação
+5.1 Rever os dados introduzidos
+5.2 Tocar no botão "Guardar"
+5.3 Aguardar confirmação do registo
 
 ---
 
-### 6. Registar sintomas (opcional)
-6.1 Aceder à funcionalidade de registo de sintomas  
-6.2 Inserir informação (ex: dor de cabeça)  
-6.3 Guardar registo  
+### 6. Cancelar operação (opcional)
+6.1 Identificar necessidade de cancelar o registo
+6.2 Tocar no botão "Cancelar"
+6.3 Regressar ao ecrã principal sem guardar alterações
 
 ---
 
-### 7. Verificar estado
-7.1 Confirmar que a medicação foi registada  
-7.2 Consultar histórico (opcional)  
-7.3 Garantir que não existem tomas em falta  
+### 7. Verificar resultado
+7.1 Confirmar que o novo medicamento aparece na lista do dia
+7.2 Validar o horário e dosagem apresentados
+7.3 Garantir que as notificações automáticas ficam ativas para a hora definida
